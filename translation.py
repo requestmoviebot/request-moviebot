@@ -7,23 +7,23 @@ class LuciferMoringstar(object):
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [PR0FESS0R-99](t.me/PR0FESS0R_99)
+🧑 My Dejhjjkv : [PR0FESS0R-99](t.me/PR0FESS0R_99)
 
-🧑 My Creator : {dev_name}
+🧑 reator : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+📦 My Soujjkorce : [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
 
-📺 My Tutorial : [Ckick Here](https://youtu.be/FCU_XJmyG_U)
+📺 My Tuthjkiorial : [Ckick Here](https://youtu.be/FCU_XJmyG_U)
 
-🗃️ My Library : [Pyrogram](https://youtu.be/Af055Eozk9s)
+🗃️ My Librhhkkbary : [Pyrogram](https://youtu.be/Af055Eozk9s)
 
-🖇️ My Language : [Python3](https://youtu.be/Af055Eozk9s)
+🖇️ My Lanhhkkguage : [Python3](https://youtu.be/Af055Eozk9s)
 
-🗃️ My Database : [Mongodb](https://youtu.be/gBLTsH-IXr0)
+🗃️ My Databammmse : [Mongodb](https://youtu.be/gBLTsH-IXr0)
 
-🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
+🗳️ My hir : [Heroku](https://youtu.be/xcZD55td6Vw)
 
-🏷️ My Updates : [Mo Tech](t.me/Mo_Tech_YT)
+🏷️ hello : [Mo Tech](t.me/Mo_Tech_YT)
 
 🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
 
